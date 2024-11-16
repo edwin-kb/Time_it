@@ -9,4 +9,6 @@ admin.site.register(Login)
 admin.site.register(HOD)
 admin.site.register(Faculty)
 admin.site.register(Department)
-admin.site.register(Semesters)
+
+admin.site.register(Semesters) 
+
